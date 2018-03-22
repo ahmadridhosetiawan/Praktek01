@@ -19,6 +19,8 @@ public class UnggasAksi {
         Bebek.warnabulu="Coklat";
         Bebek.warnaparuh="Kuning";
         
+        Bebek.cetakInfo();
+        
         Unggas Ayam= new Unggas();
         
         Ayam.nama="Ayam Kurus";
@@ -26,6 +28,8 @@ public class UnggasAksi {
         Ayam.makanan="Beras";
         Ayam.warnabulu="PutihKuning";
         Ayam.warnaparuh="Kuning";
+        
+          Ayam.cetakInfo();
         
         Unggas Angsa= new Unggas();
         
@@ -35,6 +39,8 @@ public class UnggasAksi {
         Angsa.warnabulu="Putih";
         Angsa.warnaparuh="Kuning";
         
+          Angsa.cetakInfo();
+        
         Unggas Elang= new Unggas();
         
         Elang.nama="Elang Ganteng ";
@@ -43,6 +49,8 @@ public class UnggasAksi {
         Elang.warnabulu="Coklat";
         Elang.warnaparuh="Kuning";
         
+          Elang.cetakInfo();
+        
         Unggas Gagak= new Unggas();
         
         Gagak.nama="Gagak Jahat";
@@ -50,5 +58,7 @@ public class UnggasAksi {
         Gagak.makanan="Bangkai";
         Gagak.warnabulu="Hitam";
         Gagak.warnaparuh="Hitam";
+        
+          Gagak.cetakInfo();
     }
 }
