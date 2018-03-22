@@ -15,6 +15,7 @@ public class Unggas {
     String makanan;
     String bentukkaki;
     String warnabulu;
+    String caramakan;
     
     void cetakInfo(){
         System.out.println("Nama:"+nama);
@@ -22,6 +23,7 @@ public class Unggas {
         System.out.println("Makanan:"+makanan);
         System.out.println("Bentuk Kaki:"+bentukkaki);
         System.out.println("Warna Bulu:"+warnabulu); 
+        System.out.println("Cara Makan:"+caramakan); 
     }
     
     
