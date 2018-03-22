@@ -11,6 +11,10 @@ package praktek01;
  */
 public class UnggasAksi {
     public static void main(String[] args) {
-        
+        Unggas Bebek= new Unggas();
+        Unggas Ayam= new Unggas();
+        Unggas Angsa= new Unggas();
+        Unggas Elang= new Unggas();
+        Unggas Gagak= new Unggas();
     }
 }
